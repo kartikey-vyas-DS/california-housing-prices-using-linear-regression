@@ -1,6 +1,5 @@
 
-![logo](https://github.com/Richkart700/california-housing-prices-using-linear-regression
-/blob/main/lEtBxCykSHemaTzFnvWPCQ.png?raw=true)
+![logo](lEtBxCykSHemaTzFnvWPCQ.png)
 
 
 # Linear Regression on California Housing Dataset 
