@@ -37,9 +37,8 @@ It can be downloaded/loaded using the sklearn.datasets.fetch_california_housing 
 - Target: Median house value for California districts, expressed in hundreds of thousands of dollars ($100,000)
 
 ## Evaluation and Results
-![alt text](https://github.com/123ofai/Demo-Project-Repo/blob/main/results/test.png)
 
-As you can see from the above image, the model has signifcant amount of error in <x, y, z regions>
+the model has average amount of error in <x, y, z regions>
 
 | Metric        | Value         |
 | ------------- | ------------- |
@@ -49,9 +48,13 @@ As you can see from the above image, the model has signifcant amount of error in
 The above quant results show that 
 R2_score of 61.4% is not the best it may be possible to add more relevant features like growth rate of prices in history etc. and mean squared error can be improved as well.
 
+this plot shows medinc to housin prices 
 ![Medinc to housing prices plot](download.png)
 
-![scatter plot](download (1).png)
+this plot shows housing value with respect to  latitude - longitude ~ location 
+![plotting house value with latlong population](download(1).png)
+
+
 
 ## Key Takeaways
 
