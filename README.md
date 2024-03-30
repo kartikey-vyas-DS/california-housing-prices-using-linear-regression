@@ -49,9 +49,9 @@ As you can see from the above image, the model has signifcant amount of error in
 The above quant results show that 
 R2_score of 61.4% is not the best it may be possible to add more relevant features like growth rate of prices in history etc. and mean squared error can be improved as well.
 
-![alt text](C:\Users\kvsvy\Documents\GitHub\california-housing-prices-using-linear-regression\download.png)
+![Medinc to housing prices plot](download.png)
 
-![alt text](C:\Users\kvsvy\Documents\GitHub\california-housing-prices-using-linear-regression\download (1).png)
+![scatter plot](download (1).png)
 
 ## Key Takeaways
 
