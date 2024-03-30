@@ -1,5 +1,6 @@
 
-![Logo]("C:\Users\kvsvy\Documents\GitHub\california-housing-prices-using-linear-regression\lEtBxCykSHemaTzFnvWPCQ.png")
+![logo](https://github.com/Richkart700/california-housing-prices-using-linear-regression
+/blob/main/lEtBxCykSHemaTzFnvWPCQ.png?raw=true)
 
 
 # Linear Regression on California Housing Dataset 
