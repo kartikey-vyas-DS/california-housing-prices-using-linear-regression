@@ -52,7 +52,7 @@ this plot shows medinc to housin prices
 ![Medinc to housing prices plot](download.png)
 
 this plot shows housing value with respect to  latitude - longitude ~ location 
-![plotting house value with latlong population](download(1).png)
+![plotting house value with latlong population](latlongplot.png)
 
 
 
